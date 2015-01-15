@@ -13,6 +13,15 @@ footer-links:
   github: johnsonge
   linkedin: johnsonge
 
+# Set the Sass partials directory, as we're using @imports
+sass:
+  sass_dir: _scss
+  style: :expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+
 markdown: rdiscount
 permalink: pretty
 pygments: true
