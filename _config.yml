@@ -1,9 +1,17 @@
-name: “Eugene Johnson”
-description: “Gene’s Blog“
+name: Eugene Johnson
+description: Gene’s Blog
 
-url: “johnsonge.github.io”
+avatar: 
+
+url: johnsonge.github.io
 
 paginate: 10
+
+footer-links:
+  email: johnsonge@g.cofc.edu
+  facebook: gene.johnson04
+  github: johnsonge
+  linkedin: johnsonge
 
 markdown: rdiscount
 permalink: pretty
