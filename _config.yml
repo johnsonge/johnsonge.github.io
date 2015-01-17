@@ -1,9 +1,9 @@
 markdown: redcarpet
 highlighter: null
-permalink: /:title
+permalink: 
 
 url: johnsonge.github.io
-baseurl: johnsonge
+baseurl: 
 
 redcarpet:
   extensions: [strikethrough, tables]
