@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Eugene Johnson
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "Gene's Blog for 462"
+  email: johnson.gene04@gmail.com
   disqus-shortname: 
   twitter: #username
-  facebook: #username
+  facebook: gene.johnson04
   google:
     plus: #username
     analytics: 
@@ -40,9 +40,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: johnsonge
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: johnsonge
   instagram: #username
   lastfm: #username
   tumblr: #username
