@@ -1,6 +1,6 @@
 markdown: redcarpet
 highlighter: null
-permalink: 
+permalink: /:title
 
 url: johnsonge.github.io
 baseurl: 
