@@ -3,7 +3,7 @@ highlighter: null
 permalink: /:title
 
 url: johnsonge.github.io
-baseurl:
+baseurl: johnsonge
 
 redcarpet:
   extensions: [strikethrough, tables]
