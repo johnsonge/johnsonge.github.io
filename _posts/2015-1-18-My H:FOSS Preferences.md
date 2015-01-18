@@ -1,6 +1,7 @@
 ---
 layout: post
-title: {{ page.date | date: '%B %d, %Y' }}
+title: My H/FOSS Preferences
 ---
+{{ page.date | date: '%B %d, %Y' }}
 
 Testing Post 2
