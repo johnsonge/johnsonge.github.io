@@ -2,11 +2,11 @@
 layout: post
 title: Joining the Project 
 ---
-
+   
 My favorite section of the TOS chapter reading was the section on Qualities of a community. Thus far, I haven't been involved in any open source in enough depth to consider myself a part of the open source community - or even the community of the projects that I've worked on - but I'm hoping that during the period of this course (462) and certainly afterwards, that I will be able to say that I'm a contributor and a part of it. The last three sections: Subgroups, Skills and Mentoring and Training were probably my favorite section of the Qualities of a Community. Each of these talked about how the different teams on a project and how open source as a whole is a community to contribute to and be a part of.      
-
+<br/>
 The second chapter of Software Development for the most part reiterated what the TOS chapter was talking about with FOSS projects. One thing that stuck with me was the statement that FOSS development isn't just coding and bug fixing, but a major part of it is communication. This again ties in with the whole ‘open source is a community’ thing that we've been reading about for these chapters. We've had a little experience on teams in 462 stepping our feet into a community to begin contributing to. And so far it's been "successful". I say that in quotes because, while we've joined to developers, gotten on the email bug fix list and whatnot, it's so overwhelming that it's difficult to see where to start. The project that we're working on has several contributors, so many so that it feel like a race to see who will fix the bug first. I've found a bug that I would like to fix for the project, but I have a strong feeling that someone else will beat me to it. It's an interesting feeling - trying to help, but others are helping faster (I picture it like volunteering at a soup kitchen on Thanksgiving Day).    
-
+<br/>
 Chapter 3 talked about the tools used for FOSS projects. In 362 we used SVN for version control, so we were able to get a taste of what this chapter is getting at. Version control was definitely the section that I paid most attention to. Not just because I have a little experience working with it, but since I'm getting into GitHub and learning how it works, the section was informative of all the components that make it work. While reading, I came to the realization that I never set up and upstream to my fork of our project on GitHub. I had forked it about 5 days prior and my fork was already over a hundred revisions behind the master branch. Good thing there's a lot of bugs to fix.    
-
+<br/>
 Joining the software's IRC and the email group was a simple process since the community is forum based and signing up for the developer's email list was simply pressing a button to subscribe. 
