@@ -4,6 +4,7 @@ title: Reflections on Open Source in Today's World
 ---
    
 TOS Chapter 5 was aboue building the cade for our open source project. Luckly, the process was relatively simple for our project with MuseScore because of the clear instructions and documentation. There was one issue with a command being left out, but that was al. I'm not sure if the command wasn't there or if it just wouldn't work for me if I didn't include it. One of my teammates also ran into the same problem when trying to get the code to build and it was fixed using the method I used, so I think that I'm going to fix that and submit it as a quick bug fix. At the very least, I'll try to talk to someone and ask them if it was actually a typo or if it's just something that was on my machine causing it not to work. The process of building Freeciv was a relatively straight forward process, just took a little while getting all the prerequisites and then finally running through all of the steps. I didn't run into any major issues though.
+
 <br/>
 [How I Landed a Job in Open Source](http://opensource.com/business/15/1/how-i-landed-job-open-source) - David Both, 30 Jan 2015
 
