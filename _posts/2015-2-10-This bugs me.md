@@ -30,8 +30,7 @@ There are several reported bugs related to entering values into fields. Whether 
 [New Inspector control: "Reset to Style" for text elements](http://musescore.org/en/node/47531)
 
 <br>
-and of course the one that my team is working on:
-
+and of course the one that my team is working on:  
 [Follow text doesn't work for tempo marking with decimal](http://musescore.org/en/node/46281)
 
 <br>
