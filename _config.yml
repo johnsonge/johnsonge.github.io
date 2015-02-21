@@ -1,29 +1,17 @@
-# Site wide configuration
-
-title:            Genes Blog
-locale:           en_US
-url:              http://johnsonge.github.io
-
-
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
+markdown: redcarpet
 highlighter: pygments
+permalink: /:title
+
+url: http://johnsonge.github.io
+baseurl:
+
+redcarpet:
+  extensions: [strikethrough, tables]
+
 sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-
+  sass_dir: public/css
+  style: :compressed
+  
 # Site owner
 owner:
   name: Eugene Johnson
