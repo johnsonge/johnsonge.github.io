@@ -5,12 +5,12 @@ title: What's Happening?
    
 __TOS Chapter 7 Exercises:__
 The exercises for TOS chapter 7 were relatively straight forward. Chapter 7 talked about patches and walked me through some sample problems. the first of which was seeing the difference between two files that had a small change in them. Running Both
-
-
+<br>
+<br>
 diff -u hello.c.punct hello.c > hello-excitement.patch  
 diff hello.c.punct hello.c > hello-excitement.patch
-
-
+<br>
+<br>
 commands to see the differences that runing it with and withough -u would cause, I saw that including "-u" to the command resulted in an output that had the file names, dates, times, and code. On the other hand, when I ran the command without "-u", the output was only the print statement for each file highlighting the differences.
 
 
