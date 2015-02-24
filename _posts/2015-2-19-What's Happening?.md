@@ -5,40 +5,39 @@ title: What's Happening?
    
 __TOS Chapter 7 Exercises:__
 The exercises for TOS chapter 7 were relatively straight forward. Chapter 7 talked about patches and walked me through some sample problems. the first of which was seeing the difference between two files that had a small change in them. Running Both
-<br>
 
-diff -u hello.c.punct hello.c > hello-excitement.patch
 
+diff -u hello.c.punct hello.c > hello-excitement.patch  
 diff hello.c.punct hello.c > hello-excitement.patch
-<br>
+
 
 commands to see the differences that runing it with and withough -u would cause, I saw that including "-u" to the command resulted in an output that had the file names, dates, times, and code. On the other hand, when I ran the command without "-u", the output was only the print statement for each file highlighting the differences.
-<br>
+
 
 _with -u_
-<br>
+
 --- hello.c.punct	2015-02-24 09:42:29.000000000 -0500  
 +++ hello.c	2015-02-24 09:45:21.000000000 -0500  
 @@ -5,6 +5,6 @@  
 include <stdio.h>  
-<br> 
+
+
 int main() {  
 -    printf("Hello, World.\n");  
 +    printf("Hello, World!\n");  
      return 0;  
  }  
 \ No newline at end of file>'  
-<br>
+
 
 _without -u_
-<br>
+
 8c8  
     printf("Hello, World.\n");  
     printf("Hello, World!\n");  
-<br>
 
 The rest of the problems were about the same in that you just needed to read the sections and follow the instructions to answer the questions. I didn't run into too many issues and the ones that I did were resolved relatively quickly by going back over the readings for the chapter.
-<br>
+
 
 __Reading: Finding the Right Data for software Cost Modeling:__
 
