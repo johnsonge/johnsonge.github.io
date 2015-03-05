@@ -19,9 +19,7 @@ _with -u_
 --- hello.c.punct	2015-02-24 09:42:29.000000000 -0500  
 +++ hello.c	2015-02-24 09:45:21.000000000 -0500  
 @@ -5,6 +5,6 @@  
-include <stdio.h>
-<br>
-<br>
+include <stdio.h>  
 int main() {  
 -    printf("Hello, World.\n");  
 +    printf("Hello, World!\n");  
@@ -34,8 +32,9 @@ _without -u_
 
 8c8  
     printf("Hello, World.\n");  
-    printf("Hello, World!\n");  
-
+    printf("Hello, World!\n");
+<br>
+<br>
 The rest of the problems were about the same in that you just needed to read the sections and follow the instructions to answer the questions. I didn't run into too many issues and the ones that I did were resolved relatively quickly by going back over the readings for the chapter.
 <br>
 <br>

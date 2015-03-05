@@ -3,5 +3,10 @@ layout: post
 title: Refactoring Mindset
 ---
    
-5.7
-5.8
+The readings for today were from Software Development, chapters 4 and 5. Chapter 4 talked about software architecture. I'm currently talking a software architecture and design course with Dr. Olmsted so many of the terms and concepts in this chapter were at least somewhat familiar. The section on security was interesting to me, mostly because the topic has always been something that I would like to explore sometime in the future. The opening quote in the section relates computer software to something similar to cancer in that it "can be invaded and modified to cause damage". It was interesting to read about just how many potential vulnerabilities there are for software. From things like software bugs to different forms of injection, it seems like it would be a never ending battle to try to keep your software secure. Even though it isn't something that I'm aiming for as a career, security is something that has been appealing to me. Something about the everchanging, battle makes it seem a bit like game with good guys and bad guys testing out their skills against eachother.
+</br>
+
+Chapters 5.4 and 5.5 talked about dealing with your code. Debugging, refactoring, and developing and implementing modules and classes to improve functionality. There was a large focus on testing new use cases. The section went over what kind of questions that the use case will solve, the impacts that it would have on the rest of the code base and . Figure 5.17 was a very useful diagram that pretty much summed up what section had been talking about in a simple diagram.
+</br>
+
+Exercises 5.7 and 5.8 were about making changes to given code. These exercises took a good long while for me to do. They weren't overly complicated, but there was a lot of time spent downloading, researching, and reading. The question asks to download the RMH homebase software and to set things up for further tasks. One of the first things that it has you do is to set up a local server. After getting everything set up, I fixed the "ugly" code by calling my new "predates(a,b)" function. Actually, thinking back on it, it was all pretty new stuff that I hadn't done before. It was a learning experience, but it was also a little frustrating a times. If a shift has no open spots on it, then there is no need to have a "Generate Sub Call List", but if there are, then "View Sub Call List" will be shown.
