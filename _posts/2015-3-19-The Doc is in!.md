@@ -1,0 +1,8 @@
+---
+layout: post
+title: The Doc is in!
+---
+   
+This reading on documentation was very meaningful to me. Working on a project that has very little commenting, and what commenting there is, is sporatically written with lots of assumptions made on what the reader should already know about the project. I've spent the last couple of weeks looking through the source code of our current project trying to find out what is happening where. I've been able to find what is going of by using the debugger, even after finding everything, the commenting still wasn't very indicative of what was going on. All of the code that we've submitted as a team for bug fixes, we've commented about. This first exercise to "Write thorough comments in all your source code" didn't really apply to the project we're working on now because it has hundreds of files with thousands and thousands of lines of code. I tackled a little bit of commenting the source code.
+</br>
+In excercise 8.4, we are asked to pick an open source project and comment a section that doesn't have much documentation. I chose to work on documenting a couple of sections that I'm currently working on for the team's bug fix. This will make it easier for new developers coming in to be able to better understand the code. I'm still working on thorough commenting on everything that's happening, so I haven't pushed anything to github yet. Documentation is difficult on our project because of the fact that it's so much code to sort through, but since we're already trying to understand what's going on for our section, adding useful and concise comments should come naturally along with our bug fix.

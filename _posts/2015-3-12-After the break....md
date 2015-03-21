@@ -1,0 +1,9 @@
+---
+layout: post
+title: After the break...
+---
+   
+Over the break, I worked on and off with the bug fix that I found regarding museScore's stacatto issue. As I'm making progress with the bug, I'm taking mental notes for future comments to include so that other newcomers to the project won't be as lost as I am. At this point, even though I've been confused and frustrated through most of the fix, I feel like I'm getting a hang of both the musescore source code and using xCode as an IDE. After lots of trial and error, I've definitely found exactly where the problem is occuring, now it's just a matter of figuring out how to fix it. I've got plenty of ideas, but it's a matter of time because of my computer, since every test I run takes about half an hour since my poor machine is getting old.
+
+</br>
+Looking towards wrapping up the semester (it's weird to already be saying that), I'm looking for another bug or two to work on for the project along with some documentation updates. Going along with our proposed timeline, we should have a few bux fixes along with some decumetation updates by the end of the project, so we are on track to finish on time. We have a lot of events that we are going to be going to for class, along with final projects and exams. I'd like to have most of everything done for the project in the near future so we won't be rushed coming in to the deadline. I'm looking forward to a lot of the upcoming events for class including POSSCON and a "Meeting Charleston" event where we will be able to network and talk to people in the industry and hopefully get some valuable tips and connections.
