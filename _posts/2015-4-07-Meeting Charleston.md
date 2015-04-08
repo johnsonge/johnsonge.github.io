@@ -1,0 +1,9 @@
+---
+layout: post
+title: Meeting Charleston
+---
+
+For my assignment to "Meet Charleston", I decided to to go to Tech After 5 on March 24. The one I attended just happened to be the 300th meeting, so people were excited about it. It wasn't exactly what I was expecting though. From what I had heard and read about it, I was picturing a room with some seating, presenters, and then some time at the end for mingling. This was only mingling, too many people packed into not enough space, and no presenters. While this would have been good for networking, the room was so crouded that it was difficult to move around and get one on one conversation time with one of the companies. You also had to go around staring at peoples' name tags in order to try to find out what company they were working for that you might have had interest in. I was able to talk to a couple of companies that I was interested in working with, but the conversations seemed a bit less sincere between the yelling to hear eachother and the 5 other people waiting around for their turn to talk. 
+
+<br>
+Even after all of that, I though that it was a decent experience, but not one that I would particularly do again. I'd much rather go to a smaller meeting with designated speakers who I could talk to after their presentations. I did think it was interesting to see small startups and family companies looking for people to work for them though. They seemed more lost than I was, just wandering around talking to random people. On a couple of instances, I could tell that they didn't even know what kind of employee they were looking for. I ran into people looking for graphic designers, software engineers, and IT guys. But in a few situations, they didn't know which they needed to do what. I think Everyone else seemed to enjoy themselves though, so maybe it just wasn't my cup of tea. I did get my picture sent out in the email following the event though. 
