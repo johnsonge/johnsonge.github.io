@@ -18,4 +18,4 @@ The second speaker whose presentation I will be attending is Jonathan LeBlanc. H
 <br>
 <b>Dustan Kasten: </b><i>Skookum Digital Works</i>
 
-My final choice of the three presenters whose talks we were to attend and then speak to, is Dustan Kasten. He works as a Web Developer at Skookum Digital Works. While I've bever heard about Skookum Digital Works, I'm interested in web development. I think that his talk will go well with Semmys and Jonathans in that they're working with web development in big companies, but I think that Dustan will be able to present on aspects that the others won't be touching on since he's coming from a digital studtio.
+My final choice of the three presenters whose talks we were to attend and then speak to, is Dustan Kasten. He works as a Web Developer at Skookum Digital Works. While I've bever heard about Skookum Digital Works, I'm interested in web development. I think that his talk will go well with Semmys and Jonathans in that they're working with web development in big companies, but I think that Dustan will be able to present on aspects that the others won't be touching on since he's coming from a digital studio.

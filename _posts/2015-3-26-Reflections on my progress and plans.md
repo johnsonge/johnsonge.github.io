@@ -2,12 +2,7 @@
 layout: post
 title: Reflections on my progress and plans
 ---
-   
-Catching up...
+ 
+This blog post is for the reflections on team progress as well as the readings in chapter 7. As far as team progress goes, we're still working towards our goal. In addition to the first two bugs that I helped worked on, I'm going in and working on documentation now. The other team members are working on a couple more bugs as well. My first submitted documentation fix was an addition to the build instructions for Mac. Some people were having trouble during installation where there was an issue with their path which caused a certain command to not work. I suggested an alternative command which was then added to the page by the main developers. I'm still going in slowly and trying to put meaningful comments where ever I can in order to make to process of joining the project easier for any new members who may want to join. The team has also started working on the project poster and have almost completed it. We are waiting for other bugs to be finished as well as seeing what other additions can be made before finalizing it.
 
-This chapter talked about setting up databases, working with them, and using SQL. I've had some prior experience with databases from 332 class and the exercise in this class where we set up the database.
-
-This chapter talked about...
-
-pickling
-seriaziling
+For the reading, chapter 7 talked about setting up databases, working with them, and using SQL. I've had some prior experience with databases from 332 class and the exercise in this class where we set up the database. Most of the broad concepts were a review from my previous experience, but it also covered a lot that I had not gone over. I'm not sure how I feel about mixing open source and databases though. That, to me, is something that shouldn't go together unless the data being collected is virtually meaningless. Most data worthwhile should be protected and private for only the company or researchers to use. Making this open source and having all of that data available to the public is just not something that happens. So databases and open source could have it's applications, but in my opinion, those are very limited.
