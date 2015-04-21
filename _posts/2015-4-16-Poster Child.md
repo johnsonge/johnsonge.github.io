@@ -1,0 +1,5 @@
+---
+layout: post
+title: Poster Child
+---
+The Poster Session was a good learning experience. My team was presenting our poster for our contributions to MuseScore, the open source project that we've been working with for the past semester. We talked about our bug fixes, documentation additions, processes, and struggles. Our poster ended up looking pretty good if I may say so, but we were presenting with many biology, physics, and math posters as well. Because of this, the research that they were doing looked much more impressive than our bug fixes and feature implementation. Not too many people stopped by our poster because most were there for other sciences, but those who did were polite enough and stayed through our explanation. Viewing the other teams' posters was fun too, though it looked like they were encountering the same situation that we were. It was good to see how all of the other teams' projects were coming along. We had been keeping up to date with in class deliverables, but seeing everything summarized in a poster let you get a good feel of what all was done.
